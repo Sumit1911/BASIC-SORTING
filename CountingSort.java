@@ -18,6 +18,7 @@ public class CountingSort {
             }
         }
     }
+    //for print array
     public static void printArr(int arr[]) {
 
         for(int i = 0; i<arr.length; i++) {
